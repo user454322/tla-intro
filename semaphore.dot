@@ -1,0 +1,9 @@
+strict digraph DiskGraph {
+edge [colorscheme="paired12"]
+nodesep=0.35;
+subgraph cluster_graph {
+color="white";
+-8914242678960260983 [label="color = \"red\"",style = filled]
+{rank = same; -8914242678960260983;}
+}
+}
